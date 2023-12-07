@@ -1,5 +1,5 @@
-
-n to display subdomain information
+#!/usr/bin/env bash
+# to display subdomain information
 
 get_subdomain_info() {
     domain="$1"
